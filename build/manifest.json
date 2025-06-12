@@ -1,8 +1,6 @@
-
 {
-  "//": "CANON_SEAL: https://github.com/MikeG73/canonfather",
-  "short_name": "CanonMirror",
-  "name": "DIGUM – Powered by the B.I.D.E.T. Canon Engine",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,10 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
-
- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />

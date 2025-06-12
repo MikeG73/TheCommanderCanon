@@ -1,0 +1,21 @@
+{
+  "CANON_SEAL": "https://github.com/MikeG73/canonfather",
+  "project": "canon-mirror",
+  "created": "2025-06-12T00:00:00Z",
+  "structure": {
+    ".git/": "Git repo metadata",
+    "build/": "Compiled React app output",
+    "public/": {
+      "index.html": "Entrypoint template",
+      "manifest.json": "PWA metadata file",
+      "favicon.ico": "Site icon",
+      "logo192.png": "Mid-resolution app icon",
+      "logo512.png": "High-res PWA install icon"
+    },
+    "src/": "App source code (ignored in production)",
+    "package.json": "Canonical deploy metadata",
+    "package-lock.json": "Dependency lock snapshot",
+    "netlify.toml": "Build + headers config",
+    "README.md": "Project overview, usage, and canonical reference"
+  }
+}

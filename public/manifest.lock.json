@@ -1,0 +1,35 @@
+{
+  "CANON_SEAL": "https://github.com/MikeG73/canonfather",
+  "locked_at": "2025-06-12T00:00:00Z",
+  "source_url": "https://commandercanon.com/manifest.json",
+  "status": "200 OK",
+  "content_type": "application/json",
+  "cache": {
+    "control": "public,max-age=0,must-revalidate"
+  },
+  "security": {
+    "hsts": "max-age=31536000",
+    "served_over": "https (TLS)"
+  },
+  "validation": {
+    "format": "JSON",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+}

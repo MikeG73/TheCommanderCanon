@@ -1,10 +1,6 @@
 [build]
-  command = "npm run build"
+  command = "echo 'Skipping build – using precompiled output.'"
   publish = "build"
-
-[build.environment]
-  NODE_VERSION = "18"
-  CI = "false"
 
 [[headers]]
   for = "/favicon.ico"

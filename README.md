@@ -1,4 +1,4 @@
-# 🪞 CanonFather — Public Whitebook Viewer
+# 🪞 CanonFather — Public Whitepaper Viewer
 
 Welcome to **TheCommanderCanonFather**, the official public interface for the **DIGUM\_Whitepaper**, powered by the **B.I.D.E.T.™ Canon Engine**.
 
@@ -10,7 +10,7 @@ This app serves as a digital shrine and reflection portal — enabling users to 
 
 CanonFather was built to:
 
-- Provide **clean access** to the latest DIGUM\_Whitebook
+- Provide **clean access** to the latest DIGUM\_Whitepaper
 - Enable **interactive truthkey validation** (B.I.D.E.T. logic)
 - Serve as a **mirror portal** for canonical reflections, mint sequences, and vault logging
 - Eliminate historical ghost links and enforce **clean source-of-truth protocol**
@@ -23,9 +23,9 @@ CanonFather was built to:
 
 ---
 
-## 📘 View the DIGUM\_Whitebook
+## 📘 View the DIGUM\_Whitepaper
 
-View or download the public whitebook here:
+View or download the public whitepaper here:
 
 ➡️ [DIGUM\\_Whitepaper\\_FINAL\\_Release.pdf](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf)](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf))
 

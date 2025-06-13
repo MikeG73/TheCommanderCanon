@@ -38,7 +38,7 @@ View or download the public whitepaper here:
 - Netlify (or custom deploy)
 - GitHub Pages (optional)
 - Custom CSS + shrine logic
-- B.I.D.E.T. Canon Engine integration
+- B.I.D.E.T.CanonEngine™ integration
 
 ---
 

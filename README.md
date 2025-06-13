@@ -27,7 +27,7 @@ CanonFather was built to:
 
 View or download the public whitebook here:
 
-➡️ [DIGUM\\_Whitepaper\\_FINAL\\_Release.pdf]([https://github.com/MikeG73/canonfather/blob/main/README.md](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf)](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf))
+➡️ [DIGUM\\_Whitepaper\\_FINAL\\_Release.pdf](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf)](https://github.com/MikeG73/TheCommanderCanon/blob/main/public/DWB_Final_Release.pdf))
 
 
 ---

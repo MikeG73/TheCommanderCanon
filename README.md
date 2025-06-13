@@ -1,6 +1,6 @@
 # 🪞 Commander Canon Father — Public Whitepaper Viewer
 
-Welcome to **Commander Canon Father's**, official public interface for the **DIGUM\_Whitepaper**, powered by: **B.I.D.E.T.CanonEngine™**.
+Welcome to **Commander Canon Father's**, official public interface for the **DIGUM\_Whitepaper**, powered by: **B.I.D.E.T.CanonEngine™**
 
 This app serves as a digital shrine and reflection portal — enabling users to engage, validate, and witness canonical truth cycles within a secure, interactive environment.
 

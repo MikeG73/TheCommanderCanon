@@ -4,3 +4,4 @@
 # DO NOT exclude .json, .lock, or manifest files.
 # Prevent deploy confusion
 public/asset-manifest.json
+public/animations/.venv/

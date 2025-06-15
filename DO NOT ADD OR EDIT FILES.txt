@@ -1,0 +1,23 @@
+⚠️ RULE OF CANON DIRECTORY Desktop/TheCommanderCanon
+
+Never edit source files in C:/Users/minin/Desktop/TheCommanderCanon
+    
+Only place deployable files here (like build/, public/, media assets, etc).
+
+
+✅ Use Commit Case: "📷📽️📃Add Static Files (images, videos, docs)"
+
+You can add things manually to:
+
+C:/Users/minin/Desktop/TheCommanderCanon/public/animations
+
+or:
+
+C:/Users/minin/Desktop/TheCommanderCanon/build/docs
+
+Then commit like this:
+
+cd ~/Desktop/TheCommanderCanon
+git add public/animations/my_new_clip.mp4
+git commit -m "📦 Added new animation asset to public/animations"
+git push origin main

@@ -5,3 +5,4 @@
 # Prevent deploy confusion
 public/asset-manifest.json
 public/animations/.venv/
+public/animations/canon_glow.py
